@@ -26,3 +26,9 @@ Allows viewing and clearing history<br>
 
 Manages book requests in a queue
 Users can add, remove, and view queued books</p>
+<dl>
+  <dt>Tool Used</dt>
+  <dd> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="norefferer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Microsoft Visual Studio" width="40" height="40"></a></dd>
+  <dt>Language Used</dt>
+  <dd><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></dd>
+</dl>
