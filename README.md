@@ -12,20 +12,20 @@
 <h3>Key Features:</h3>
 <p><b><i>📑User Authentication:</i></b>
 
-Users can register, login, and logout
-Restricts unauthorized access (only the admin can add books)<br>
+<ul>Users can register, login, and logout</ul>
+<ul>Restricts unauthorized access (only the admin can add books)</ul>
 <b><i>📑Book Management:</i></b>
 
-Linked List stores books (dynamic storage)
-Books can be added, searched, issued, and returned<br>
+<ul>Linked List stores books (dynamic storage)</ul>
+<ul>Books can be added, searched, issued, and returned</ul>
 <b><i>📑Action History (Stack):</i></b>
 
-Keeps a record of actions performed
-Allows viewing and clearing history<br>
+<ul>Keeps a record of actions performed</ul>
+<ul>Allows viewing and clearing history</ul>
 <b><i>📑Queue System:</i></b>
 
-Manages book requests in a queue
-Users can add, remove, and view queued books</p>
+<ul>Manages book requests in a queue</ul>
+<ul>Users can add, remove, and view queued books</ul></p>
 <dl>
   <dt>Tool Used</dt>
   <dd> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="norefferer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Microsoft Visual Studio" width="40" height="40"></a></dd>
